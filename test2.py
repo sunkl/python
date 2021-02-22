@@ -7,3 +7,6 @@ def add():
 
 def sub():
     pass
+
+def mix():
+    pass
